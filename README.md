@@ -46,7 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/bd85c763-d697-4ab2-87f3-d677f24227ac)
+![Screenshot 2024-10-10 100555](https://github.com/user-attachments/assets/65939c09-0117-4919-bc23-21129d10d7de)
+
 
 
  
@@ -63,7 +64,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/ca09de2d-ba22-415f-a189-26893cdcc446)
+ ![WhatsApp Image 2024-10-18 at 5 26 31 PM](https://github.com/user-attachments/assets/64e163e5-117e-42a9-ba88-b59769116a3f)
+
 
 
 iv)	Creating the new test cell view
@@ -74,7 +76,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![image](https://github.com/user-attachments/assets/85b7456e-1902-4ac2-8291-6ae6035dd0a2)
+ ![WhatsApp Image 2024-10-18 at 5 30 00 PM](https://github.com/user-attachments/assets/a0fc5901-f32c-4084-815c-d904f481cdf1)
+
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -86,12 +89,15 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/92eae130-d124-4f8b-a4b5-0040f418f193)
+ ![WhatsApp Image 2024-10-18 at 5 35 32 PM](https://github.com/user-attachments/assets/18a1dc48-2ea3-45c1-b9b8-f11f13b566f9)
+
 
 For Transient Analysis Settings and Output
- ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
+![WhatsApp Image 2024-10-18 at 5 30 39 PM](https://github.com/user-attachments/assets/2f608ec6-3955-446f-911d-51c86c37fa94)
 
- ![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
+
+ ![WhatsApp Image 2024-10-18 at 5 31 14 PM](https://github.com/user-attachments/assets/31fa1ecc-cf47-4a8b-afe3-68402f260e59)
+
 
 
 
